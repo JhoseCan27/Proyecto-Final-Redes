@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "521236896467-405nml20go4of8fb15bams22p1u0lthm.apps.googleusercontent.com",
+        "project_id": "mundialnotifications",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}

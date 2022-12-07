@@ -1,0 +1,4 @@
+Crear y configurar proyecto Google Cloud y descargar archivo (JSON) - https://www.youtube.com/watch?v=OwE6EjKn4oM&t=13s    
+Crear calendarios en Google Calendar con Python - (API Calendar)    - https://www.youtube.com/watch?v=MSnX3yWKBWU         
+Libreria Google para el proyecto en python                          - https://github.com/novax124/Asistente-Personal-MIKE-/blob/main/GOOGLE/Google.py 
+Crear eventos en Google Calendar con Python - (API Calendar)        - https://www.youtube.com/watch?v=HnDE6X5ugSs
